@@ -31,7 +31,7 @@ DevOps 생태계를 이해하는 Frontend Engineer 박용진입니다.
 ### Blog
 
 <a href="https://blog.emoket.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/L_earn-1C1C1C?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/L_earn-1C1C1C?style=flat&logo=vercel&logoColor=white">
 </a>
 
 ### Contact
@@ -40,7 +40,7 @@ DevOps 생태계를 이해하는 Frontend Engineer 박용진입니다.
   <a href="mailto:insight.emoket@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/emoket">
+  <a href="https://www.linkedin.com/in/emoket" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </div>
