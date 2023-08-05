@@ -70,3 +70,7 @@ DevOps 생태계를 이해하는 Frontend Engineer 박용진입니다.
 ### Top Langs
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emoket&size_weight=0.5&count_weight=0.5&layout=compact)
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
