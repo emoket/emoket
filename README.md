@@ -67,9 +67,11 @@ DevOps 생태계를 이해하는 Frontend Engineer 박용진입니다.
   <img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat&logo=Argo&logoColor=white" />
 </div>
 
+<!--
 ### Top Langs
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emoket&size_weight=0.5&count_weight=0.5&layout=compact)
+-->
 
 <!--START_SECTION:waka-->
 
