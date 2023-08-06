@@ -72,4 +72,13 @@ DevOps 생태계를 이해하는 Frontend Engineer 박용진입니다.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emoket&size_weight=0.5&count_weight=0.5&layout=compact)
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   1 hr 2 mins     ███████████████▒░░░░░░░░░   61.27 %
+Markdown     18 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.21 %
+Other        13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
+JSON         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+```
+
 <!--END_SECTION:waka-->
