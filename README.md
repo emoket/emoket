@@ -74,11 +74,11 @@ DevOps 생태계를 이해하는 Frontend Engineer 박용진입니다.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 4 mins    ██████████░░░░░░░░░░░░░░░   40.12 %
-JavaScript   3 hrs 1 min     ██████████░░░░░░░░░░░░░░░   39.58 %
-SCSS         53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
-Markdown     32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-CSS          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+JavaScript   3 hrs 12 mins   ██████████░░░░░░░░░░░░░░░   40.43 %
+TypeScript   3 hrs 4 mins    █████████▓░░░░░░░░░░░░░░░   38.62 %
+SCSS         1 hr            ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
+Markdown     32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
+CSS          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
