@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## About me 👋
 
-Software Engineer 박용진입니다.
+Software Engineer 박용진입니다.
 
 ### Work Style
 
