@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 Software Engineer 박용진입니다.
 
+
 ### Work Style
 
 - 언제나 **사용자 관점**에서 바라보는 **UX 설계**를 지향합니다.
@@ -34,6 +35,7 @@ Software Engineer 박용진입니다.
   <a href="https://blog.emoket.vercel.app"><img src="https://img.shields.io/badge/L_earn-1C1C1C?style=flat&logo=vercel&logoColor=white"></a>
 </div>
 
+
 ### Contact
 
 <div>
@@ -41,6 +43,7 @@ Software Engineer 박용진입니다.
   <a href="mailto:insight.emoket@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/emoket"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 </div>
+
 
 ### Tech Skills
 
