@@ -38,11 +38,14 @@ Software Engineer 박용진입니다.
 </div>
 
 
-### Tech Skills
-
 <div>
   <h4>프론트엔드 개발:</h4>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quasar-1976D2?style=flat&logo=Quasar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=Vuetify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinia-42B883?style=flat&logo=Vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/NextUI-000000?style=flat&logo=nextui&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white" />
@@ -50,15 +53,15 @@ Software Engineer 박용진입니다.
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" />
   <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=ReactQuery&logoColor=white" />
   <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat&logo=ReactHookForm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=Vuetify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Quasar-1976D2?style=flat&logo=Quasar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinia-42B883?style=flat&logo=Vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
 
   <h4>백엔드 개발:</h4>
+  <img src="https://img.shields.io/badge/Bun-FAF1E1?style=flat&logo=bun&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hono-E36001?style=flat&logo=hono&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=Zod&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat" />
 
   <h4>보안 및 인증:</h4>
   <img src="https://img.shields.io/badge/Keycloak-DA1F26?style=flat&logo=Keycloak&logoColor=white" />
@@ -71,7 +74,6 @@ Software Engineer 박용진입니다.
   <img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat&logo=Argo&logoColor=white" />
   <img src="https://img.shields.io/badge/Kustomize-326CE5?style=flat" />
 </div>
-
 
 
 <!--
