@@ -86,11 +86,11 @@ Software Engineer 박용진입니다.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   10 hrs 28 mins  ███████████▒░░░░░░░░░░░░░   45.53 %
-Vue.js       4 hrs 55 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.38 %
-JSON         4 hrs 3 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.65 %
-TSConfig     1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-Docker       1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+TypeScript   7 hrs 22 mins   ██████████▒░░░░░░░░░░░░░░   41.27 %
+JSON         4 hrs 3 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.75 %
+Vue.js       2 hrs 52 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
+TSConfig     1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
+Docker       1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
 ```
 
 <!--END_SECTION:waka-->
