@@ -86,8 +86,7 @@ Software Engineer 박용진입니다.
 <!--START_SECTION:waka-->
 
 ```txt
-Other   16 mins         █████████████████▓░░░░░░░   70.33 %
-JSON    6 mins          ███████▒░░░░░░░░░░░░░░░░░   29.67 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
