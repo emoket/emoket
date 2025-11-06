@@ -114,11 +114,11 @@ Software Engineer 박용진입니다.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   5 hrs 28 mins   ████████░░░░░░░░░░░░░░░░░   32.39 %
-YAML         3 hrs 14 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.14 %
-Bash         3 hrs 5 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.29 %
-Other        1 hr 40 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
-Markdown     1 hr 32 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
+TypeScript   3 hrs 53 mins   ██████░░░░░░░░░░░░░░░░░░░   24.20 %
+Markdown     3 hrs 4 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.12 %
+Bash         2 hrs 52 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.89 %
+Other        2 hrs 40 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.60 %
+YAML         1 hr 37 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
 ```
 
 <!--END_SECTION:waka-->
